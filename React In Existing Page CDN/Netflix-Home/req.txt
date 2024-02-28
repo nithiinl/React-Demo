@@ -1,0 +1,5 @@
+package.json------------> npm init -y
+
+REACT,REACT DOM, Babel compiler  --------> npm i react react-dom @babel/standalone --save
+
+bootstrap, bootstrap icons --------> npm install bootstrap  bootstrap-icons  --save
